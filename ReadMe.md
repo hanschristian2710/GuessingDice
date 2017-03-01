@@ -3,7 +3,7 @@
 **Dice Guessing** is a simple graphic project with python that allow user to guess the total number of 5 dice, which will then let the user know if their guess is close to the real result.
 
 ## Usage
-Clone the repository and follow the following instruction:
+Clone the repository and follow the below command on terminal (linux):
 ``` 
 cd directory 
 python diceGuessing.py 

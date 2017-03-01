@@ -8,6 +8,7 @@ Clone the repository and follow the command below on terminal (linux) to run:
 cd directory 
 python diceGuessing.py 
 ```
+Before running python, you need to get python installed on your machine.
 
 ## Video Walkthrough 
 

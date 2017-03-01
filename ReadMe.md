@@ -14,3 +14,6 @@ python diceGuessing.py
 Here's a walkthrough of the project:
 
 <img src='http://i.imgur.com/GTbaRCH.gif' title='Dice Guessing' width='' alt='Video Walkthrough' />
+
+## Notes
+Please include the graphics.py, it is the library that is used. 
